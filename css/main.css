@@ -32,5 +32,6 @@ select,
 
 fieldset {
   border-top: none;
-  border-bottom: 2px solid rgba(112,173,85,0.3)
+  border-bottom: 2px solid;
+  border-color: rgba(112, 173, 85, .3);
 }
