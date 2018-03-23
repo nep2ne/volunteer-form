@@ -37,3 +37,11 @@ fieldset {
 hr {
   border-color: rgba(112, 173, 85, .3);
 }
+
+.left-box {
+  padding-right: .5em;
+}
+
+.right-box {
+  padding-left: .5em;
+}
