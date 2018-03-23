@@ -32,6 +32,8 @@ select,
 
 fieldset {
   border-top: none;
-  border-bottom: 2px solid;
+}
+
+hr {
   border-color: rgba(112, 173, 85, .3);
 }
